@@ -14,17 +14,17 @@ document.querySelector("#blue").addEventListener("click", function(e){
     body.style.backgroundColor = color
 })
 
-document.querySelector("#green2").addEventListener("click", function(e){
+document.querySelector("#greenyellow").addEventListener("click", function(e){
     let color = e.target.id
     body.style.backgroundColor = color
 })
 
-document.querySelector("#viola").addEventListener("click", function(e){
+document.querySelector("#purple").addEventListener("click", function(e){
     let color = e.target.id
     body.style.backgroundColor = color
 })
 
-document.querySelector("#giallo").addEventListener("click", function(e){
+document.querySelector("#yellow").addEventListener("click", function(e){
     let color = e.target.id
     body.style.backgroundColor = color
 })
